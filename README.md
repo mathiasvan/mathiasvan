@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathiasvan
 - 👀 I’m interested in programming stuff
-- 🌱 I’m currently learning app development
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on some cool projects!
 
 <!---
